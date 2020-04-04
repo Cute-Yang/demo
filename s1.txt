@@ -1,2 +1,5 @@
 this is the first line
 this is the second line
+#include <stdion.h>
+#include <stream.h>
+#include <Python.h>
